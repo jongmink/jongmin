@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>NPR: National Public Radio: News & Analysis, World, US, Music & Arts: NPR</title>
+	</head>
+	<body>
+		<header>
+			<h1>npr KUOW</h1>
+			<aside> 
+				<ul>
+					<li>support public radio</li>
+					<li>find stations</li>
+					<li>npr shop</li>
+					<li>sign in/register</li>
+				</ul>
+			</aside>
+			<nav>
+				<ul>
+					<li>topics</li>
+					<li>programs</li>
+					<li>kuow</li>
+					<li>listen</li>
+				</ul>
+			</nav>
+			<aside>advertisement</aside>
+		</header>
+		<section>
+			<header>
+				<img />
+				<h4>parallels - world news</h4>
+			</header>
+				<article>
+					<h2>How Far Will President Obama Go?</h2>
+						<p>texts</p>
+				</article>
+				<footer>
+					<h3>Kerry Seeks Iraq;s Support on Move Against Islamic Stats</h3>
+				</footer>
+		</section>
+		<section>
+			<header>
+				<img />
+				<h4>goats and soda</h4>
+			</header>
+			<article>
+				<h2>How Could A Doctor's Death From Ebola Possibly Be 'Good'?</h2>
+				<p>texts</p>
+			</article>
+			<footer>
+				<ul>
+					<li>Covering Ebola: Fear And Love in Liberia</li>
+					<li>Dignity And Survival In a Town Devastated By Ebola</li>
+				</ul>
+			</footer>
+		</section>
+		<h3>(More articles...)</h3>
+		<aside>
+			<h3>From NPR NEWS</h3>
+				<ul>
+					<li>Ukrainian President Offers Limited Autonomy For Rebllious Region</li>
+					<li>Government To Drop Background Check Firm USIS</li>
+					<li>ETC</li>
+				</ul>
+		</aside>
+		<aside>
+			<h3>Don't Miss</h3>
+				<ul>
+					<li>
+						<h4>parallels</h4>
+							<h3>Behind Every Good Whisky Is A Trusty Distillery Cat</h3>
+					</li>
+					<li>
+						<h4>code switch</h4>
+							<h3>In Korea, Adoptees Fight To Change Cultrue That Sent Them Overseas</h3>
+					</li>
+				</ul>
+		</aside>
+		</aside>
+			<ul>
+				<li>load more...</li>
+				<li>news</li>
+				<li>arts and life</li>
+				<li>books</li>
+				<li>music</li>
+				<li>back to top</li>
+			</ul>
+		</aside>
+		<footer>
+			<ul>
+				<li>news</li>
+				<li>arts and life</li>
+				<li>music</li>
+				<li>programs</li>
+				<li>listen</li>
+				<li>about</li>
+			</ul>
+			<ul>
+				<li>help</li>
+				<li>contact</li>
+				<li>temrs of use</li>
+				<li>privacy</li>
+				<li>sponsorship choices</li>
+				<li>text-only</li>
+				<li>C 2014 NPR</li>
+			</ul>
+		</footer>
+	</body>
+</html>
