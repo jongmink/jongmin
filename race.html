@@ -1,0 +1,52 @@
+<script>
+var animal = ["dragon", 
+			  			"cat", 
+			 			  "dog", 
+			  			"duck", 
+			  			"horse", 
+			  			"mouse", 
+			  			"elephant", 
+			  			"hippo", 
+			  			"lion", 
+			  			"tiger"
+];
+
+
+function Animal(name, speed, focus) {
+	this.name = name;
+	// variable 1-10
+	this.speed = speed;
+	this.focus = focus; 
+	this.position = 0;
+	this.message;
+	this.forward = function() {
+		if ((Math.floor(Math.random() * 9) + 1) > this.focus) {
+		  message = (this.name + " is talking to a " + animal[Math.floor(Math.random() * 9)] + '.');
+		alert(message);
+		} else {
+			this.position += this.speed;
+			alert(this.name + " is in position " + this.position);
+		}	
+	}
+	
+}
+
+var turtle = new Animal("Turtle", 2, 8);
+var rabbit = new Animal("Rabbit", 7, 2);
+alert("Race: Turtle vs. Rabbit");
+while (turtle.position < 31 && rabbit.position < 31) {
+	turtle.forward();
+	rabbit.forward();
+}
+
+	if (turtle.position > rabbit.position) {
+		alert(turtle.name + " Wins!")
+	} else if (turtle.position < rabbit.position) {
+		alert(rabbit.name + " Wins!")
+	} else { alert(turtle.name + rabbit.name + " Tie...")
+	}
+
+
+
+
+</script>
